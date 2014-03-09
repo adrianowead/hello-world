@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-Teste inicial, criando novo repositÃ³rio
+Teste inicial, criando novo repositório
 teste de modificações
